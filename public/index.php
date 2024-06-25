@@ -2,7 +2,7 @@
     $idade = 26;
     $tempoTrabalho = 5;
 
-    print_r(getcwd());
+    print_r('../'. getcwd());
 ?>
 
 <!DOCTYPE html>
