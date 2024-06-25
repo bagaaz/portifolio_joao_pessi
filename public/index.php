@@ -1,8 +1,8 @@
 <?php
+    define('BASE_DIR', __DIR__ . '/..');
+
     $idade = 26;
     $tempoTrabalho = 5;
-
-    print_r('../'. getcwd());
 ?>
 
 <!DOCTYPE html>
@@ -11,11 +11,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>João Pessi | Creative Designer</title>
-    <link rel="icon" href="../src/webp/favico.webp" type="image/x-icon">
+    <link rel="icon" href="src/webp/favico.webp" type="image/x-icon">
 
     <!-- CSS only -->
-    <link rel="stylesheet" href="../css/reset.css">
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <header class="header">
@@ -27,7 +27,7 @@
 
             <div class="flex justify-center items-center">
                 <div class="flex">
-                    <img src="../src/webp/logo_white_mobile.webp" alt="Logo João Pessi">
+                    <img src="src/webp/logo_white_mobile.webp" alt="Logo João Pessi">
                     <div class="flex flex-col justify-center items-center text-white ml-4">
                         <span class="text-xl font-bold">João Pessi</span>
                         <span class="text-xs">Creative Designer</span>
@@ -37,7 +37,7 @@
 
             <div class="flex-col mt-5">
                 <div>
-                    <img src="../src/webp/heroes_mobile.webp" alt="Hero" class="w-full">
+                    <img src="src/webp/heroes_mobile.webp" alt="Hero" class="w-full">
                 </div>
 
                 <div class="flex flex-col justify-center items-center mt-4">
@@ -61,7 +61,7 @@
         <section class="bg-dirt_white p-8">
             <div class="grid grid-cols-1 gap-4">
                 <div class="flex flex-col justify-between items-center bg-white border border-solid border-primary shadow-xl px-5 py-10">
-                    <img src="../src/webp/ux_ui.webp" alt="UX/UI Design">
+                    <img src="src/webp/ux_ui.webp" alt="UX/UI Design">
                     <h2 class="text-2xl font-bold text-center mt-10">UX/UI</h2>
                     <p class="font-normal text-center mt-5">
                         Design de interfaces intuitivas e experiências de usuário memoráveis para aplicativos móveis e web.
@@ -69,7 +69,7 @@
                 </div>
 
                 <div class="flex flex-col justify-between items-center bg-white border border-solid border-primary shadow-xl px-5 py-10">
-                    <img src="../src/webp/motion_design.webp" alt="Motion Design">
+                    <img src="src/webp/motion_design.webp" alt="Motion Design">
                     <h2 class="text-2xl font-bold text-center mt-10">Motion Design</h2>
                     <p class="font-normal text-center mt-5">
                         Criação de animações e vídeos envolventes para campanhas publicitárias, apresentações e conteúdo digital.
@@ -77,7 +77,7 @@
                 </div>
 
                 <div class="flex flex-col justify-between items-center bg-white border border-solid border-primary shadow-xl px-5 py-10">
-                    <img src="../src/webp/brand_design.webp" alt="Brand Design">
+                    <img src="src/webp/brand_design.webp" alt="Brand Design">
                     <h2 class="text-2xl font-bold text-center mt-10">Brand Design</h2>
                     <p class="font-normal text-center mt-5">
                         Criação de identidades visuais marcantes e coesas, incluindo logotipos, paletas de cores e diretrizes de marca, para ajudar seu negócio a se destacar.
@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="flex flex-col justify-between items-center bg-white border border-solid border-primary shadow-xl px-5 py-10">
-                    <img src="../src/webp/media_desing.webp" alt="Design para mídias pagas e sociais">
+                    <img src="src/webp/media_desing.webp" alt="Design para mídias pagas e sociais">
                     <h2 class="text-2xl font-bold text-center mt-10">Design para mídias pagas e sociais</h2>
                     <p class="font-normal text-center mt-5">
                         Desenvolvimento de peças criativas para anúncios pagos e conteúdo para redes sociais, otimizadas para engajamento e conversão.
@@ -99,7 +99,7 @@
 
             <div class="flex flex-col justify-center items-center border-b-[5px] border-solid border-primary pb-10 mt-10">
                 <div>
-                    <img src="../src/webp/flash_solda_mobile.webp" alt="Projeto Flash Solda">
+                    <img src="src/webp/flash_solda_mobile.webp" alt="Projeto Flash Solda">
                 </div>
 
                 <div class="text-center">
@@ -118,7 +118,7 @@
 
             <div class="flex flex-col justify-center items-center border-b-[5px] border-solid border-primary pb-10 mt-10">
                 <div>
-                    <img src="../src/webp/savvi_mobile.webp" alt="Projeto Savvi">
+                    <img src="src/webp/savvi_mobile.webp" alt="Projeto Savvi">
                 </div>
 
                 <div class="text-center">
@@ -137,7 +137,7 @@
 
             <div class="flex flex-col justify-center items-center border-b-[5px] border-solid border-primary pb-10 mt-10">
                 <div>
-                    <img src="../src/webp/frutekas_mobile.webp" alt="Projeto Frutekas">
+                    <img src="src/webp/frutekas_mobile.webp" alt="Projeto Frutekas">
                 </div>
 
                 <div class="text-center">
@@ -156,7 +156,7 @@
 
             <div class="flex flex-col justify-center items-center border-b-[5px] border-solid border-primary pb-10 mt-10">
                 <div>
-                    <img src="../src/webp/kontrol_mobile.webp" alt="Projeto Kontrol">
+                    <img src="src/webp/kontrol_mobile.webp" alt="Projeto Kontrol">
                 </div>
 
                 <div class="text-center">
@@ -181,7 +181,7 @@
                 </p>
 
                 <div class="w-full grid grid-cols-1 gap-4 mt-8">
-                    <a href="../contato" class="font-bold text-center border-2 border-solid border-white text-white py-4"><i class="fa-regular fa-envelope"></i> Contato</a>
+                    <a href="contato" class="font-bold text-center border-2 border-solid border-white text-white py-4"><i class="fa-regular fa-envelope"></i> Contato</a>
                     <a href="#" class="font-bold text-center border-2 border-solid border-white text-white py-4"><i class="fa-brands fa-whatsapp"></i> WhatsApp</a>
                 </div>
             </div>
@@ -189,7 +189,7 @@
 
         <section class="p-8">
             <div class="flex justify-center">
-                <img src="../src/webp/joao_pessi.webp" alt="Foto do João Pessi">
+                <img src="src/webp/joao_pessi.webp" alt="Foto do João Pessi">
             </div>
 
             <div class="border-b-[4px] border-solid border-primary py-4">
