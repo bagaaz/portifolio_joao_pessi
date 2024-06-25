@@ -1,3 +1,8 @@
+<?php
+    $idade = 26;
+    $tempoTrabalho = 5;
+?>
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
