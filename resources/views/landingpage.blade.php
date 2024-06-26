@@ -241,7 +241,7 @@
 
                     <div class="font-normal text-start mt-4">
                         <p class="mb-2">
-                            Tenho {{ ((int) \Carbon\Carbon::now()->diffInYears(\Carbon\Carbon::createFromDate(1997, 1, 1)))*-1 }} anos e moro no Espírito Santo, Brasil.
+                            Tenho {{ ((int) \Carbon\Carbon::now()->diffInYears(\Carbon\Carbon::createFromDate(1997, 10, 28)))*-1 }} anos e moro no Espírito Santo, Brasil.
                         </p>
                         <p class="mb-2">
                             Trabalho como Designer há <span class="font-bold">{{ ((int) \Carbon\Carbon::now()->diffInYears(\Carbon\Carbon::createFromDate(2019, 1, 1)))*-1 }} anos</span>, acumulando experiência em várias áreas do design, como <span class="font-bold">Motion Design</span>, <span class="font-bold">UX/UI</span>, <span class="font-bold">Design Gráfico</span> e <span class="font-bold">Branding</span>.
