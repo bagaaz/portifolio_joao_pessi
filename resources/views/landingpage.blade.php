@@ -42,8 +42,8 @@
                     </p>
 
                     <div class="w-full grid grid-cols-1 gap-4 mt-8">
-                        <a href="/contato" class="font-bold text-center border-2 border-solid border-white text-white py-4"><i class="fa-regular fa-envelope"></i> Contato</a>
-                        <a href="#" class="font-bold text-center border-2 border-solid border-white text-white py-4"><i class="fa-brands fa-whatsapp"></i> WhatsApp</a>
+                        <a href="/contato" class="font-bold text-center border-2 border-solid border-white text-white hover:bg-white hover:text-primary py-4"><i class="fa-regular fa-envelope"></i> Contato</a>
+                        <a href="#" class="font-bold text-center border-2 border-solid border-white text-white hover:bg-white hover:text-primary py-4"><i class="fa-brands fa-whatsapp"></i> WhatsApp</a>
                     </div>
                 </div>
             </div>
@@ -101,8 +101,8 @@
                     </p>
 
                     <div class="w-full grid grid-cols-1 gap-4 mt-8">
-                        <a href="#" class="font-bold text-center border-2 border-solid border-primary text-primary py-4">Conhecer</a>
-                        <a href="#" class="font-bold text-center border-2 border-solid border-primary text-primary py-4"><i class="fa-brands fa-figma"></i> Ver protótipo</a>
+                        <a href="#" class="font-bold text-center border-2 border-solid border-primary text-primary hover:bg-primary hover:text-white py-4">Conhecer</a>
+                        <a href="#" class="font-bold text-center border-2 border-solid border-primary text-primary hover:bg-primary hover:text-white py-4"><i class="fa-brands fa-figma"></i> Ver protótipo</a>
                     </div>
                 </div>
             </div>
@@ -120,8 +120,8 @@
                     </p>
 
                     <div class="w-full grid grid-cols-1 gap-4 mt-8">
-                        <a href="#" class="font-bold text-center border-2 border-solid border-primary text-primary py-4">Conhecer</a>
-                        <a href="#" class="font-bold text-center border-2 border-solid border-primary text-primary py-4"><i class="fa-brands fa-vimeo-v"></i> Ver vídeo</a>
+                        <a href="#" class="font-bold text-center border-2 border-solid border-primary text-primary hover:bg-primary hover:text-white py-4">Conhecer</a>
+                        <a href="#" class="font-bold text-center border-2 border-solid border-primary text-primary hover:bg-primary hover:text-white py-4"><i class="fa-brands fa-vimeo-v"></i> Ver vídeo</a>
                     </div>
                 </div>
             </div>
@@ -139,8 +139,8 @@
                     </p>
 
                     <div class="w-full grid grid-cols-1 gap-4 mt-8">
-                        <a href="#" class="font-bold text-center border-2 border-solid border-primary text-primary py-4">Conhecer</a>
-                        <a href="#" class="font-bold text-center border-2 border-solid border-primary text-primary py-4"><i class="fa-brands fa-figma"></i> Ver protótipo</a>
+                        <a href="#" class="font-bold text-center border-2 border-solid border-primary text-primary hover:bg-primary hover:text-white py-4">Conhecer</a>
+                        <a href="#" class="font-bold text-center border-2 border-solid border-primary text-primary hover:bg-primary hover:text-white py-4"><i class="fa-brands fa-figma"></i> Ver protótipo</a>
                     </div>
                 </div>
             </div>
@@ -158,7 +158,7 @@
                     </p>
 
                     <div class="w-full grid grid-cols-1 gap-4 mt-8">
-                        <a href="#" class="font-bold text-center border-2 border-solid border-primary text-primary py-4">Conhecer</a>
+                        <a href="#" class="font-bold text-center border-2 border-solid border-primary text-primary hover:bg-primary hover:text-white py-4">Conhecer</a>
                     </div>
                 </div>
             </div>
@@ -172,8 +172,8 @@
                 </p>
 
                 <div class="w-full grid grid-cols-1 gap-4 mt-8">
-                    <a href="/contato" class="font-bold text-center border-2 border-solid border-white text-white py-4"><i class="fa-regular fa-envelope"></i> Contato</a>
-                    <a href="#" class="font-bold text-center border-2 border-solid border-white text-white py-4"><i class="fa-brands fa-whatsapp"></i> WhatsApp</a>
+                    <a href="/contato" class="font-bold text-center border-2 border-solid border-white text-white hover:bg-white hover:text-primary py-4"><i class="fa-regular fa-envelope"></i> Contato</a>
+                    <a href="#" class="font-bold text-center border-2 border-solid border-white text-white hover:bg-white hover:text-primary py-4"><i class="fa-brands fa-whatsapp"></i> WhatsApp</a>
                 </div>
             </div>
         </section>
