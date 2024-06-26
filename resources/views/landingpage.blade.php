@@ -21,6 +21,17 @@
     <meta property="twitter:description" content="João Pessi, Creative Designer com experiência em UX/UI, Motion Design, Brand Design e Design para mídias pagas e sociais. Transforme suas ideias em realidade.">
     <meta property="twitter:image" content="{{ asset('img/webp/joao_pessi.webp') }}">
 
+    <!-- Preload para fontes -->
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+        <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+    </noscript>
+
+    <!-- Adiando o carregamento de JS não crítico -->
+    <script defer src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.min.js"></script>
+
     @vite('resources/css/app.css')
 </head>
 <body>
