@@ -259,7 +259,7 @@
         <span class="text-white">Desenvolvendo criatividade em cada detalhe</span>
     </footer>
 
-    <script src="https://kit.fontawesome.com/3aaec5b8b5.js" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/3aaec5b8b5.js" crossorigin="anonymous" defer></script>
     @vite('resources/js/app.js')
 </body>
 </html>
