@@ -91,7 +91,7 @@
         <section class="bg-dirt_white p-8">
             <div class="md:max-w-7xl grid grid-cols-1 md:grid-cols-4 gap-4 mx-auto md:-mt-28">
                 <div class="flex flex-col justify-between items-center bg-white border border-solid border-primary shadow-xl px-5 py-10">
-                    <img src="{{ asset('img/webp/ux_ui.webp') }}" alt="UX/UI Design">
+                    <img src="{{ asset('img/webp/ux_ui.webp') }}" alt="UX/UI Design" loading="lazy">
                     <h2 class="text-2xl font-bold text-center mt-10">UX/UI</h2>
                     <p class="font-normal text-center mt-5">
                         Design de interfaces intuitivas e experiências de usuário memoráveis para aplicativos móveis e web.
@@ -99,7 +99,7 @@
                 </div>
 
                 <div class="flex flex-col justify-between items-center bg-white border border-solid border-primary shadow-xl px-5 py-10">
-                    <img src="{{ asset('img/webp/motion_design.webp') }}" alt="Motion Design">
+                    <img src="{{ asset('img/webp/motion_design.webp') }}" alt="Motion Design" loading="lazy">
                     <h2 class="text-2xl font-bold text-center mt-10">Motion Design</h2>
                     <p class="font-normal text-center mt-5">
                         Criação de animações e vídeos envolventes para campanhas publicitárias, apresentações e conteúdo digital.
@@ -107,7 +107,7 @@
                 </div>
 
                 <div class="flex flex-col justify-between items-center bg-white border border-solid border-primary shadow-xl px-5 py-10">
-                    <img src="{{ asset('img/webp/brand_design.webp') }}" alt="Brand Design">
+                    <img src="{{ asset('img/webp/brand_design.webp') }}" alt="Brand Design" loading="lazy">
                     <h2 class="text-2xl font-bold text-center mt-10">Brand Design</h2>
                     <p class="font-normal text-center mt-5">
                         Criação de identidades visuais marcantes e coesas, incluindo logotipos, paletas de cores e diretrizes de marca, para ajudar seu negócio a se destacar.
@@ -115,7 +115,7 @@
                 </div>
 
                 <div class="flex flex-col justify-between items-center bg-white border border-solid border-primary shadow-xl px-5 py-10">
-                    <img src="{{ asset('img/webp/media_desing.webp') }}" alt="Design para mídias pagas e sociais">
+                    <img src="{{ asset('img/webp/media_desing.webp') }}" alt="Design para mídias pagas e sociais" loading="lazy">
                     <h2 class="text-2xl font-bold text-center mt-10">Design para mídias pagas e sociais</h2>
                     <p class="font-normal text-center mt-5">
                         Desenvolvimento de peças criativas para anúncios pagos e conteúdo para redes sociais, otimizadas para engajamento e conversão.
@@ -134,7 +134,7 @@
                 <div class="flex flex-col md:flex-row justify-center md:justify-between items-center border-b-[5px] border-solid border-primary pb-10 mt-10 md:mt-20">
                     <picture>
                         <source media="(min-width: 768px)" srcset="{{ asset('img/webp/flash_solda.webp') }}">
-                        <img src="{{ asset('img/webp/flash_solda_mobile.webp') }}" alt="Projeto Flash Solda">
+                        <img src="{{ asset('img/webp/flash_solda_mobile.webp') }}" alt="Projeto Flash Solda" loading="lazy">
                     </picture>
 
                     <div class="md:w-2/5 text-center md:text-start">
@@ -154,7 +154,7 @@
                 <div class="flex flex-col md:flex-row justify-center md:justify-between items-center border-b-[5px] border-solid border-primary pb-10 mt-10 md:mt-20">
                     <picture>
                         <source media="(min-width: 768px)" srcset="{{ asset('img/webp/savvi.webp') }}">
-                        <img src="{{ asset('img/webp/savvi_mobile.webp') }}" alt="Projeto Flash Solda">
+                        <img src="{{ asset('img/webp/savvi_mobile.webp') }}" alt="Projeto Flash Solda" loading="lazy">
                     </picture>
 
                     <div class="md:w-2/5 text-center md:text-start">
@@ -174,7 +174,7 @@
                 <div class="flex flex-col md:flex-row justify-center md:justify-between items-center border-b-[5px] border-solid border-primary pb-10 mt-10 md:mt-20">
                     <picture>
                         <source media="(min-width: 768px)" srcset="{{ asset('img/webp/frutekas.webp') }}">
-                        <img src="{{ asset('img/webp/frutekas_mobile.webp') }}" alt="Projeto Flash Solda">
+                        <img src="{{ asset('img/webp/frutekas_mobile.webp') }}" alt="Projeto Flash Solda" loading="lazy">
                     </picture>
 
                     <div class="md:w-2/5 text-center md:text-start">
@@ -194,7 +194,7 @@
                 <div class="flex flex-col md:flex-row justify-center md:justify-between items-center border-b-[5px] border-solid border-primary pb-10 mt-10 md:mt-20">
                     <picture>
                         <source media="(min-width: 768px)" srcset="{{ asset('img/webp/kontrol.webp') }}">
-                        <img src="{{ asset('img/webp/kontrol_mobile.webp') }}" alt="Projeto Flash Solda">
+                        <img src="{{ asset('img/webp/kontrol_mobile.webp') }}" alt="Projeto Flash Solda" loading="lazy">
                     </picture>
 
                     <div class="md:w-2/5 text-center md:text-start">
@@ -231,7 +231,7 @@
         <section id="sobre" class="p-8">
             <div class="md:max-w-7xl flex flex-col md:flex-row-reverse md:justify-between mx-auto">
                 <div class="flex justify-center md:justify-end">
-                    <img src="{{ asset('img/webp/joao_pessi.webp') }}" alt="Foto do João Pessi">
+                    <img src="{{ asset('img/webp/joao_pessi.webp') }}" alt="Foto do João Pessi" loading="lazy">
                 </div>
 
                 <div class="md:w-9/12 flex flex-col md:mr-8">
