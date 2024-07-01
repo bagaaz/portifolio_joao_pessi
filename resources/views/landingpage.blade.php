@@ -55,7 +55,7 @@
                     <nav class="flex justify-center items-center">
                         <a href="#" class="text-lg text-white font-bold hover:text-secondary px-4">Início</a>
                         <a href="#projetos" class="text-lg text-white font-bold hover:text-secondary px-4">Projetos</a>
-                        <a href="#" class="text-lg text-white font-bold hover:text-secondary px-4">Contato</a>
+                        <a href="#contato" class="text-lg text-white font-bold hover:text-secondary px-4">Contato</a>
                         <a href="#sobre" class="text-lg text-white font-bold hover:text-secondary px-4">Sobre</a>
                     </nav>
                 </div>
@@ -78,8 +78,8 @@
                     </p>
 
                     <div class="w-full grid grid-cols-1 md:grid-cols-2 gap-4 mt-8 md:mt-24">
-                        <a href="/contato" class="md:text-2xl font-bold text-center border-2 border-solid border-white text-white hover:bg-white hover:text-primary py-4"><i class="fa-regular fa-envelope"></i> Contato</a>
-                        <a href="#" class="md:text-2xl font-bold text-center border-2 border-solid border-white text-white hover:bg-white hover:text-primary py-4"><i class="fa-brands fa-whatsapp"></i> WhatsApp</a>
+                        <a href="mailto:joaopaulopessi@gmail.com" target="_blank" class="md:text-2xl font-bold text-center border-2 border-solid border-white text-white hover:bg-white hover:text-primary py-4"><i class="fa-regular fa-envelope"></i> Contato</a>
+                        <a href="https://api.whatsapp.com/send/?phone=27997759860&text&type=phone_number&app_absent=0" target="_blank" class="md:text-2xl font-bold text-center border-2 border-solid border-white text-white hover:bg-white hover:text-primary py-4"><i class="fa-brands fa-whatsapp"></i> WhatsApp</a>
                     </div>
                 </div>
             </div>
@@ -142,8 +142,8 @@
                         </p>
 
                         <div class="w-full md:w-4/5 grid grid-cols-1 md:grid-cols-2 gap-4 mt-8">
-                            <a href="#" class="font-bold text-center border-2 border-solid border-primary text-primary hover:bg-primary hover:text-white py-4">Conhecer</a>
-                            <a href="#" class="font-bold text-center border-2 border-solid border-primary text-primary hover:bg-primary hover:text-white py-4"><i class="fa-brands fa-figma"></i> Ver protótipo</a>
+                            <a href="https://www.behance.net/gallery/199321637/Landing-Page-Flash-Solda" target="_blank" class="font-bold text-center border-2 border-solid border-primary text-primary hover:bg-primary hover:text-white py-4">Conhecer</a>
+                            <a href="https://www.figma.com/proto/yjcGlXoX1WkIMrfSwgfJGA/Flash-Solda?page-id=0%3A1&node-id=1-39&viewport=355%2C413%2C0.07&t=X4P6uc0E9R1cdr4z-1&scaling=min-zoom&content-scaling=fixed" target="_blank" class="font-bold text-center border-2 border-solid border-primary text-primary hover:bg-primary hover:text-white py-4"><i class="fa-brands fa-figma"></i> Ver protótipo</a>
                         </div>
                     </div>
                 </div>
@@ -162,8 +162,8 @@
                         </p>
 
                         <div class="w-full md:w-4/5 grid grid-cols-1 md:grid-cols-2 gap-4 mt-8">
-                            <a href="#" class="font-bold text-center border-2 border-solid border-primary text-primary hover:bg-primary hover:text-white py-4">Conhecer</a>
-                            <a href="#" class="font-bold text-center border-2 border-solid border-primary text-primary hover:bg-primary hover:text-white py-4"><i class="fa-brands fa-vimeo-v"></i> Ver vídeo</a>
+                            <a href="https://www.behance.net/gallery/188610615/Video-Institucional-Savvi" target="_blank" class="font-bold text-center border-2 border-solid border-primary text-primary hover:bg-primary hover:text-white py-4">Conhecer</a>
+                            <a href="https://vimeo.com/901494621" target="_blank" class="font-bold text-center border-2 border-solid border-primary text-primary hover:bg-primary hover:text-white py-4"><i class="fa-brands fa-vimeo-v"></i> Ver vídeo</a>
                         </div>
                     </div>
                 </div>
@@ -182,8 +182,8 @@
                         </p>
 
                         <div class="w-full md:w-4/5 grid grid-cols-1 md:grid-cols-2 gap-4 mt-8">
-                            <a href="#" class="font-bold text-center border-2 border-solid border-primary text-primary hover:bg-primary hover:text-white py-4">Conhecer</a>
-                            <a href="#" class="font-bold text-center border-2 border-solid border-primary text-primary hover:bg-primary hover:text-white py-4"><i class="fa-brands fa-figma"></i> Ver protótipo</a>
+                            <a href="https://www.behance.net/gallery/195451873/Landing-Page-Frutekas" target="_blank" class="font-bold text-center border-2 border-solid border-primary text-primary hover:bg-primary hover:text-white py-4">Conhecer</a>
+                            <a href="https://www.figma.com/proto/eSilsFPF4BHjtm9mmdU2eG/Frutekas?page-id=0%3A1&node-id=1-5&viewport=460%2C400%2C0.08&t=vRmM0g2wYz3sv7KO-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A5" target="_blank" class="font-bold text-center border-2 border-solid border-primary text-primary hover:bg-primary hover:text-white py-4"><i class="fa-brands fa-figma"></i> Ver protótipo</a>
                         </div>
                     </div>
                 </div>
@@ -202,14 +202,14 @@
                         </p>
 
                         <div class="w-full md:w-4/5 grid grid-cols-1 md:grid-cols-2 gap-4 mt-8">
-                            <a href="#" class="font-bold text-center border-2 border-solid border-primary text-primary hover:bg-primary hover:text-white py-4">Conhecer</a>
+                            <a href="https://www.behance.net/gallery/120414797/Kontrol-Tecnologia" target="_blank" class="font-bold text-center border-2 border-solid border-primary text-primary hover:bg-primary hover:text-white py-4">Conhecer</a>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section class="bg-dirt_white md:pb-16">
+        <section id="contato" class="bg-dirt_white md:pb-16">
             <div class="w-full md:max-w-7xl bg-primary p-8 md:px-16 mx-auto">
                 <div class="flex flex-col md:flex-row md:justify-between md:items-center">
                     <h2 class="md:w-[30%] text-3xl font-bold text-white text-center px-4">Vamos começar um projeto?</h2>
@@ -218,8 +218,8 @@
                     </p>
 
                     <div class="w-full md:w-[30%] grid grid-cols-1 md:grid-cols-2 gap-4 mt-8 md:mt-0">
-                        <a href="/contato" class="font-bold text-center border-2 border-solid border-white text-white hover:bg-white hover:text-primary py-4"><i class="fa-regular fa-envelope"></i> Contato</a>
-                        <a href="#" class="font-bold text-center border-2 border-solid border-white text-white hover:bg-white hover:text-primary py-4"><i class="fa-brands fa-whatsapp"></i> WhatsApp</a>
+                        <a href="mailto:joaopaulopessi@gmail.com" target="_blank" class="font-bold text-center border-2 border-solid border-white text-white hover:bg-white hover:text-primary py-4"><i class="fa-regular fa-envelope"></i> Contato</a>
+                        <a href="https://api.whatsapp.com/send/?phone=27997759860&text&type=phone_number&app_absent=0" target="_blank" class="font-bold text-center border-2 border-solid border-white text-white hover:bg-white hover:text-primary py-4"><i class="fa-brands fa-whatsapp"></i> WhatsApp</a>
                     </div>
                 </div>
             </div>
